@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1491381425 source:c:\users\user\dropbox\codeblocks\n-queens\main.cpp
+	<iostream>
+	"Classes.h"
+	<stdlib.h>
+	<stdio.h>
+	<vector>
+	<algorithm>
+	<math.h>
+	<time.h>
+
+1491381376 c:\users\user\dropbox\codeblocks\n-queens\classes.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<vector>
+	<algorithm>
+	<math.h>
+	<time.h>
+
+1491388793 source:c:\users\user\dropbox\codeblocks\n-queens\v2\main.cpp
+	<iostream>
+	"Classes.h"
+	<stdlib.h>
+	<stdio.h>
+	<vector>
+	<algorithm>
+	<math.h>
+	<time.h>
+
+1491400556 c:\users\user\dropbox\codeblocks\n-queens\v2\classes.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<vector>
+	<algorithm>
+	<math.h>
+	<time.h>
+
+1491401495 source:c:\users\user\dropbox\projeler\codeblocks\n-queens\v2\main.cpp
+	<iostream>
+	"Classes.h"
+	<stdlib.h>
+	<stdio.h>
+	<vector>
+	<algorithm>
+	<math.h>
+	<time.h>
+
+1491401495 c:\users\user\dropbox\projeler\codeblocks\n-queens\v2\classes.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<vector>
+	<algorithm>
+	<math.h>
+	<time.h>
+

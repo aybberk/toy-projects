@@ -1,0 +1,9 @@
+Phase 1:
+-Final Loss: 0.014252891764044762
+-Lasted: 46 minutes 
+Phase 2:
+-Final Loss: 0.0080407178029418
+-Lasted: 41 minutes 
+Phase 3:
+-Final Loss: 0.00693140784278512
+-Lasted: 50 minutes 

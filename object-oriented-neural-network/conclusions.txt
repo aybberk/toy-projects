@@ -1,0 +1,15 @@
+This is an object oriented Python 3 implementation of a feedforward neural network. It is trained with stochastic 
+gradient descent with backpropagation.
+
+As seen in results.txt and resultsWithBias.txt, bias input definitely helps minimizing error, but not really necessary.
+
+After 100000 epochs of training, the neural network seems to learn a binary encoding scheme for each input-output pair
+because when we round each hidden layer representation to the nearest integer, each one gives a distinct 4 bit value.
+
+Of course, these encodings are not sorted in any way, which does not have to be. There are (at least) 4 factorial local minima and the network
+weights converges one of them randomly.
+
+This application of neural network can be classified as unsupervised learning, since it simply learns to compress data (autoencoder).
+
+
+USAGE: Adjust learning rate, epochs and turn on/off bias at the top of the code. Then train the network.
